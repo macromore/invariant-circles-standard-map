@@ -1,0 +1,64 @@
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       20
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.199303 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 5.571878 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 8.447712 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 10.118578 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 12.090221 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 12.090864 seconds.
+
+Compute the initial Fourier modes with 20 initial modes... 
+  Elapsed time is 12.910114 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 1.945977e-04 
+  Conjugacy Error = 3.374837e-05 
+  Elapsed time is 18.705670 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 5.435165e-12 
+       conjugacy error = 1.230858e-04 
+    Iteration 2, error = 1.574654e-13 
+       conjugacy error = 1.231173e-04 
+    Iteration 3, error = 9.089706e-16 
+       conjugacy error = 1.231173e-04 
+    Iteration 4, error limit exceeded 
+
+  Sobolev Norms:
+    k = 1 norm is 5.042462e+00 
+    k = 2 norm is 5.043684e+00 
+    k = 3 norm is 5.155308e+00 
+    k = 4 norm is 4.095100e+01 
+    k = 5 norm is 1.350823e+03 
+    k = 6 norm is 5.625563e+04 
+    k = 7 norm is 2.573034e+06 
+    k = 8 norm is 1.214215e+08 
+    k = 9 norm is 5.792817e+09 
+    k = 10 norm is 2.776242e+11 
+  Tail size: 1.755703e-06 

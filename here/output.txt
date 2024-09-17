@@ -1,0 +1,1149 @@
+Parameters: 
+P =                           [ 1.850000, 0.565000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       20
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.084502 seconds.
+
+How many periodic tori? 6
+
+Separate the trajecotory... 
+    Elapsed time is 7.925559 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 8.991465 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0467130991823679. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.121481 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.046713099182368. 
+  Delta rho:          1.110223e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.247776 seconds.
+The rotation number is approximately 0.046713099182368.
+  Elapsed time is 9.247928 seconds.
+
+Compute the initial Fourier modes with 20 initial modes... 
+  Elapsed time is 9.680077 seconds.
+
+Flipped rho is 0.953286900817632.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 1.113822e-06 
+  Conjugacy Error = 1.625003e-07 
+  Elapsed time is 12.522360 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 4.441034e-16 
+       conjugacy error = 7.226452e-07 
+    Iteration 2, error limit exceeded 
+
+NewtonTime =
+
+    6.7066
+
+
+  Sobolev Norms:
+    k = 1 norm is 4.955303e+00 
+    k = 2 norm is 4.960505e+00 
+    k = 3 norm is 4.989611e+00 
+    k = 4 norm is 6.038390e+00 
+    k = 5 norm is 3.526141e+01 
+    k = 6 norm is 3.119080e+02 
+    k = 7 norm is 3.198915e+03 
+    k = 8 norm is 3.963866e+04 
+    k = 9 norm is 5.797252e+05 
+    k = 10 norm is 9.589924e+06 
+  Tail size: 1.867403e-12 
+Parameters: 
+P =                           [ 1.850000, 0.565000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       20
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.083496 seconds.
+
+How many periodic tori? 6
+
+Separate the trajecotory... 
+    Elapsed time is 5.376718 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 6.079238 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0467130991823679. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 6.194170 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.046713099182368. 
+  Delta rho:          1.110223e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 6.318465 seconds.
+The rotation number is approximately 0.046713099182368.
+  Elapsed time is 6.318590 seconds.
+
+Compute the initial Fourier modes with 20 initial modes... 
+  Elapsed time is 6.727373 seconds.
+
+Flipped rho is 0.953286900817632.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 1.113822e-06 
+  Conjugacy Error = 1.625003e-07 
+  Elapsed time is 9.444352 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 4.441034e-16 
+       conjugacy error = 7.226452e-07 
+    Iteration 2, error limit exceeded 
+
+NewtonTime =
+
+    6.5907
+
+
+  Sobolev Norms:
+    k = 1 norm is 4.955303e+00 
+    k = 2 norm is 4.960505e+00 
+    k = 3 norm is 4.989611e+00 
+    k = 4 norm is 6.038390e+00 
+    k = 5 norm is 3.526141e+01 
+    k = 6 norm is 3.119080e+02 
+    k = 7 norm is 3.198915e+03 
+    k = 8 norm is 3.963866e+04 
+    k = 9 norm is 5.797252e+05 
+    k = 10 norm is 9.589924e+06 
+  Tail size: 1.867403e-12 
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       20
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.053664 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 6.239251 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 8.985748 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.424799 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.905124 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 9.905263 seconds.
+
+Compute the initial Fourier modes with 20 initial modes... 
+  Elapsed time is 10.273593 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 1.945977e-04 
+  Conjugacy Error = 3.374837e-05 
+  Elapsed time is 20.200206 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 5.435392e-12 
+       conjugacy error = 1.230858e-04 
+    Iteration 2, error = 1.579133e-13 
+       conjugacy error = 1.231173e-04 
+    Iteration 3, error = 1.776357e-15 
+       conjugacy error = 1.231173e-04 
+    Iteration 4, error = 8.881784e-16 
+       conjugacy error = 1.231173e-04 
+    Iteration 5, error = 8.881784e-16 
+       conjugacy error = 1.231173e-04 
+    Iteration 6, error limit exceeded 
+
+NewtonTime =
+
+  132.5076
+
+
+  Sobolev Norms:
+    k = 1 norm is 5.042462e+00 
+    k = 2 norm is 5.043684e+00 
+    k = 3 norm is 5.155308e+00 
+    k = 4 norm is 4.095100e+01 
+    k = 5 norm is 1.350823e+03 
+    k = 6 norm is 5.625563e+04 
+    k = 7 norm is 2.573034e+06 
+    k = 8 norm is 1.214215e+08 
+    k = 9 norm is 5.792817e+09 
+    k = 10 norm is 2.776242e+11 
+  Tail size: 1.755703e-06 
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       25
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.055045 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 14.917950 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 16.853103 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 17.150794 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 17.464809 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 17.464939 seconds.
+
+Compute the initial Fourier modes with 25 initial modes... 
+  Elapsed time is 17.818538 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 2.359563e-05 
+  Conjugacy Error = 1.704445e-06 
+  Elapsed time is 24.780062 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 1.444085e-13 
+       conjugacy error = 5.903193e-06 
+    Iteration 2, error = 1.776357e-15 
+       conjugacy error = 5.902629e-06 
+    Iteration 3, error = 8.881784e-16 
+       conjugacy error = 5.902629e-06 
+    Iteration 4, error limit exceeded 
+
+NewtonTime =
+
+   56.0323
+
+
+  Sobolev Norms:
+    k = 1 norm is 5.042399e+00 
+    k = 2 norm is 5.043622e+00 
+    k = 3 norm is 5.155834e+00 
+    k = 4 norm is 4.109208e+01 
+    k = 5 norm is 1.356545e+03 
+    k = 6 norm is 5.651440e+04 
+    k = 7 norm is 2.585177e+06 
+    k = 8 norm is 1.219990e+08 
+    k = 9 norm is 5.820439e+09 
+    k = 10 norm is 2.789495e+11 
+  Tail size: 1.764092e-06 
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       35
+number of modes after newton  60
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.060414 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 7.349843 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 10.144289 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 10.575591 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 11.039709 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 11.039842 seconds.
+
+Compute the initial Fourier modes with 35 initial modes... 
+  Elapsed time is 11.713492 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 1.306945e-05 
+  Conjugacy Error = 3.271722e-07 
+  Elapsed time is 23.397759 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 2.664535e-15 
+       conjugacy error = 3.056332e-07 
+    Iteration 2, error = 8.881800e-16 
+       conjugacy error = 3.057009e-07 
+    Iteration 3, error = 8.881784e-16 
+       conjugacy error = 3.057009e-07 
+    Iteration 4, error limit exceeded 
+
+NewtonTime =
+
+   99.2500
+
+
+  Sobolev Norms:
+    k = 1 norm is 5.042398e+00 
+    k = 2 norm is 5.043632e+00 
+    k = 3 norm is 5.177876e+00 
+    k = 4 norm is 5.576296e+01 
+    k = 5 norm is 2.264704e+03 
+    k = 6 norm is 1.043187e+05 
+    k = 7 norm is 4.982834e+06 
+    k = 8 norm is 2.411643e+08 
+    k = 9 norm is 1.176396e+10 
+    k = 10 norm is 5.780230e+11 
+  Tail size: 1.108595e-07 
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       25
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.053638 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 8.948990 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 11.749532 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 12.171949 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 12.632939 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 12.633052 seconds.
+
+Compute the initial Fourier modes with 25 initial modes... 
+  Elapsed time is 13.078356 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 2.359563e-05 
+  Conjugacy Error = 1.704445e-06 
+  Elapsed time is 22.927726 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 1.444085e-13 
+       conjugacy error = 5.903193e-06 
+    Iteration 2, error = 1.776357e-15 
+       conjugacy error = 5.902629e-06 
+    Iteration 3, error = 8.881784e-16 
+       conjugacy error = 5.902629e-06 
+    Iteration 4, error limit exceeded 
+
+NewtonTime =
+
+   80.0825
+
+
+  Sobolev Norms:
+    k = 1 norm is 5.042399e+00 
+    k = 2 norm is 5.043622e+00 
+    k = 3 norm is 5.155834e+00 
+    k = 4 norm is 4.109208e+01 
+    k = 5 norm is 1.356545e+03 
+    k = 6 norm is 5.651440e+04 
+    k = 7 norm is 2.585177e+06 
+    k = 8 norm is 1.219990e+08 
+    k = 9 norm is 5.820439e+09 
+    k = 10 norm is 2.789495e+11 
+  Tail size: 1.764092e-06 
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       50
+number of modes after newton  25
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.053835 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 6.211238 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 8.976749 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.398298 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.864237 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 9.864372 seconds.
+
+Compute the initial Fourier modes with 50 initial modes... 
+  Elapsed time is 10.731372 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 5.248568e-06 
+  Conjugacy Error = 1.704445e-06 
+  Elapsed time is 16.124981 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 2.245597e-15 
+       conjugacy error = 5.544324e-06 
+    Iteration 2, error = 1.776357e-15 
+       conjugacy error = 5.544458e-06 
+    Iteration 3, error = 8.927100e-16 
+       conjugacy error = 5.544458e-06 
+    Iteration 4, error = 4.538050e-16 
+       conjugacy error = 5.544458e-06 
+    Iteration 5, error limit exceeded 
+
+NewtonTime =
+
+   50.2446
+
+
+  Sobolev Norms:
+    k = 1 norm is 5.042396e+00 
+    k = 2 norm is 5.043585e+00 
+    k = 3 norm is 5.126457e+00 
+    k = 4 norm is 2.653715e+01 
+    k = 5 norm is 5.064048e+02 
+    k = 6 norm is 1.007903e+04 
+    k = 7 norm is 2.028264e+05 
+    k = 8 norm is 4.106942e+06 
+    k = 9 norm is 8.361299e+07 
+    k = 10 norm is 1.712396e+09 
+  Tail size: 3.282185e-06 
+Parameters: 
+P =                           [ 3.141593, 1.000000 ]
+alpha =                       0.785398163397448          probably acos(something)
+nu =                          1.000100
+initial number of modes       20
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.050990 seconds.
+
+How many periodic tori? 1
+
+Separate the trajecotory... 
+    Elapsed time is 3.904914 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 4.033113 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.871221766629883. 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 4.055164 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.871221766629884. 
+  Delta rho:          8.881784e-16 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 4.076155 seconds.
+The rotation number is approximately 0.871221766629884.
+  Elapsed time is 4.076246 seconds.
+
+Compute the initial Fourier modes with 20 initial modes... 
+  Elapsed time is 4.443423 seconds.
+
+Flipped rho is 0.128778233370116.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 1.467422e-07 
+  Conjugacy Error = 1.822042e-07 
+  Elapsed time is 5.134190 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 4.448424e-16 
+       conjugacy error = 7.082297e-15 
+    Iteration 2, error = 2.603880e-16 
+       conjugacy error = 5.645659e-15 
+    Iteration 3, error limit exceeded 
+
+NewtonTime =
+
+    2.3691
+
+
+  Sobolev Norms:
+    k = 1 norm is 3.425042e+00 
+    k = 2 norm is 3.700971e+00 
+    k = 3 norm is 4.425329e+00 
+    k = 4 norm is 1.050302e+01 
+    k = 5 norm is 7.064750e+01 
+    k = 6 norm is 5.884900e+02 
+    k = 7 norm is 5.277661e+03 
+    k = 8 norm is 5.189557e+04 
+    k = 9 norm is 5.845566e+05 
+    k = 10 norm is 7.740263e+06 
+  Tail size: 6.374570e-16 
+Parameters: 
+P =                           [ 3.141593, 1.000000 ]
+alpha =                       0.785398163397448          probably acos(something)
+nu =                          1.000100
+initial number of modes       10
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.052714 seconds.
+
+How many periodic tori? 1
+
+Separate the trajecotory... 
+    Elapsed time is 5.669539 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 5.801164 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.871221766629883. 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 5.822322 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.871221766629884. 
+  Delta rho:          8.881784e-16 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 5.842624 seconds.
+The rotation number is approximately 0.871221766629884.
+  Elapsed time is 5.842739 seconds.
+
+Compute the initial Fourier modes with 10 initial modes... 
+  Elapsed time is 6.017210 seconds.
+
+Flipped rho is 0.128778233370116.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 2.422071e-04 
+  Conjugacy Error = 3.052493e-04 
+  Elapsed time is 6.723286 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 4.440892e-16 
+       conjugacy error = 2.635035e-09 
+    Iteration 2, error = 2.220446e-16 
+       conjugacy error = 4.687816e-15 
+    Iteration 3, error limit exceeded 
+
+NewtonTime =
+
+    2.3118
+
+
+  Sobolev Norms:
+    k = 1 norm is 3.425042e+00 
+    k = 2 norm is 3.700971e+00 
+    k = 3 norm is 4.425329e+00 
+    k = 4 norm is 1.050302e+01 
+    k = 5 norm is 7.064750e+01 
+    k = 6 norm is 5.884900e+02 
+    k = 7 norm is 5.277661e+03 
+    k = 8 norm is 5.189557e+04 
+    k = 9 norm is 5.845566e+05 
+    k = 10 norm is 7.740263e+06 
+  Tail size: 6.374623e-16 
+Parameters: 
+P =                           [ 3.141593, 1.000000 ]
+alpha =                       0.785398163397448          probably acos(something)
+nu =                          1.000100
+initial number of modes       10
+number of modes after newton  40
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.054167 seconds.
+
+How many periodic tori? 1
+
+Separate the trajecotory... 
+    Elapsed time is 3.862701 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 3.995257 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.871221766629883. 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 4.016128 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.871221766629884. 
+  Delta rho:          8.881784e-16 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 4.036875 seconds.
+The rotation number is approximately 0.871221766629884.
+  Elapsed time is 4.036983 seconds.
+
+Compute the initial Fourier modes with 10 initial modes... 
+  Elapsed time is 4.211528 seconds.
+
+Flipped rho is 0.128778233370116.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 2.422071e-04 
+  Conjugacy Error = 3.052493e-04 
+  Elapsed time is 4.841938 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 8.881784e-16 
+       conjugacy error = 2.634797e-09 
+    Iteration 2, error = 1.468657e-16 
+       conjugacy error = 5.076109e-13 
+    Iteration 3, error limit exceeded 
+
+NewtonTime =
+
+    1.9818
+
+
+  Sobolev Norms:
+    k = 1 norm is 3.425042e+00 
+    k = 2 norm is 3.700971e+00 
+    k = 3 norm is 4.425329e+00 
+    k = 4 norm is 1.050302e+01 
+    k = 5 norm is 7.064750e+01 
+    k = 6 norm is 5.884900e+02 
+    k = 7 norm is 5.277661e+03 
+    k = 8 norm is 5.189557e+04 
+    k = 9 norm is 5.845566e+05 
+    k = 10 norm is 7.740263e+06 
+  Tail size: 5.931562e-13 
+Parameters: 
+P =                           [ 3.141593, 1.000000 ]
+alpha =                       0.785398163397448          probably acos(something)
+nu =                          1.000100
+initial number of modes       10
+number of modes after newton  40
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.051367 seconds.
+
+How many periodic tori? 1
+
+Separate the trajecotory... 
+    Elapsed time is 1.795714 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 1.926278 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.871221766629883. 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 1.946063 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.871221766629884. 
+  Delta rho:          8.881784e-16 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 1.966366 seconds.
+The rotation number is approximately 0.871221766629884.
+  Elapsed time is 1.966465 seconds.
+
+Compute the initial Fourier modes with 10 initial modes... 
+  Elapsed time is 2.144688 seconds.
+
+Flipped rho is 0.128778233370116.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 2.422071e-04 
+  Conjugacy Error = 3.052493e-04 
+  Elapsed time is 2.745058 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 8.881784e-16 
+       conjugacy error = 2.634797e-09 
+    Iteration 2, error = 1.468657e-16 
+       conjugacy error = 5.076109e-13 
+    Iteration 3, error limit exceeded 
+
+NewtonTime =
+
+    1.9948
+
+
+  Sobolev Norms:
+    k = 1 norm is 3.425042e+00 
+    k = 2 norm is 3.700971e+00 
+    k = 3 norm is 4.425329e+00 
+    k = 4 norm is 1.050302e+01 
+    k = 5 norm is 7.064750e+01 
+    k = 6 norm is 5.884900e+02 
+    k = 7 norm is 5.277661e+03 
+    k = 8 norm is 5.189557e+04 
+    k = 9 norm is 5.845566e+05 
+    k = 10 norm is 7.740263e+06 
+  Tail size: 5.931562e-13 
+Parameters: 
+P =                           [ 3.141593, 1.000000 ]
+alpha =                       0.785398163397448          probably acos(something)
+nu =                          1.000100
+initial number of modes       10
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.053118 seconds.
+
+How many periodic tori? 1
+
+Separate the trajecotory... 
+    Elapsed time is 1.789684 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 1.915740 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.871221766629883. 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 1.935810 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.871221766629884. 
+  Delta rho:          8.881784e-16 
+  Machine epsilon is  1.110223e-16 
+  Elapsed time is 1.956317 seconds.
+The rotation number is approximately 0.871221766629884.
+  Elapsed time is 1.956407 seconds.
+
+Compute the initial Fourier modes with 10 initial modes... 
+  Elapsed time is 2.131928 seconds.
+
+Flipped rho is 0.128778233370116.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 2.422071e-04 
+  Conjugacy Error = 3.052493e-04 
+  Elapsed time is 2.792055 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 4.440892e-16 
+       conjugacy error = 2.635035e-09 
+    Iteration 2, error = 2.220446e-16 
+       conjugacy error = 4.687816e-15 
+    Iteration 3, error limit exceeded 
+
+NewtonTime =
+
+    2.3272
+
+
+  Sobolev Norms:
+    k = 1 norm is 3.425042e+00 
+    k = 2 norm is 3.700971e+00 
+    k = 3 norm is 4.425329e+00 
+    k = 4 norm is 1.050302e+01 
+    k = 5 norm is 7.064750e+01 
+    k = 6 norm is 5.884900e+02 
+    k = 7 norm is 5.277661e+03 
+    k = 8 norm is 5.189557e+04 
+    k = 9 norm is 5.845566e+05 
+    k = 10 norm is 7.740263e+06 
+  Tail size: 6.374623e-16 
+Parameters: 
+P =                           [ 1.850000, 0.565000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.000010
+initial number of modes       20
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.053335 seconds.
+
+How many periodic tori? 6
+
+Separate the trajecotory... 
+    Elapsed time is 9.056299 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 9.759515 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0467130991823679. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.867138 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.046713099182368. 
+  Delta rho:          1.110223e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.987583 seconds.
+The rotation number is approximately 0.046713099182368.
+  Elapsed time is 9.987749 seconds.
+
+Compute the initial Fourier modes with 20 initial modes... 
+  Elapsed time is 10.334523 seconds.
+
+Flipped rho is 0.953286900817632.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 1.497927e-07 
+  Conjugacy Error = 1.625003e-07 
+  Elapsed time is 13.043240 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 4.441034e-16 
+       conjugacy error = 7.226452e-07 
+    Iteration 2, error limit exceeded 
+
+NewtonTime =
+
+    6.6388
+
+
+  Sobolev Norms:
+    k = 1 norm is 4.955303e+00 
+    k = 2 norm is 4.960505e+00 
+    k = 3 norm is 4.989611e+00 
+    k = 4 norm is 6.038390e+00 
+    k = 5 norm is 3.526141e+01 
+    k = 6 norm is 3.119080e+02 
+    k = 7 norm is 3.198915e+03 
+    k = 8 norm is 3.963866e+04 
+    k = 9 norm is 5.797252e+05 
+    k = 10 norm is 9.589924e+06 
+  Tail size: 1.867403e-12 
+Parameters: 
+P =                           [ 1.850000, 0.565000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.000010
+initial number of modes       50
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.049567 seconds.
+
+How many periodic tori? 6
+
+Separate the trajecotory... 
+    Elapsed time is 6.427498 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 7.144796 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0467130991823679. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 7.252899 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.046713099182368. 
+  Delta rho:          1.110223e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 7.372033 seconds.
+The rotation number is approximately 0.046713099182368.
+  Elapsed time is 7.372189 seconds.
+
+Compute the initial Fourier modes with 50 initial modes... 
+  Elapsed time is 8.229678 seconds.
+
+Flipped rho is 0.953286900817632.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 5.520836e-10 
+  Conjugacy Error = 6.258760e-10 
+  Elapsed time is 10.902184 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 7.001981e-16 
+       conjugacy error = 5.331499e-10 
+    Iteration 2, error = 4.647324e-16 
+       conjugacy error = 5.331495e-10 
+    Iteration 3, error limit exceeded 
+
+NewtonTime =
+
+   12.7993
+
+
+  Sobolev Norms:
+    k = 1 norm is 4.955303e+00 
+    k = 2 norm is 4.960505e+00 
+    k = 3 norm is 4.989612e+00 
+    k = 4 norm is 6.038416e+00 
+    k = 5 norm is 3.526190e+01 
+    k = 6 norm is 3.119131e+02 
+    k = 7 norm is 3.198971e+03 
+    k = 8 norm is 3.963935e+04 
+    k = 9 norm is 5.797362e+05 
+    k = 10 norm is 9.590567e+06 
+  Tail size: 2.054695e-12 
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       50
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.054799 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 5.991648 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 8.833191 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.255296 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 9.729801 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 9.729932 seconds.
+
+Compute the initial Fourier modes with 50 initial modes... 
+  Elapsed time is 10.600814 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 2.318102e-03 
+  Conjugacy Error = 2.822308e-05 
+  Elapsed time is 20.483501 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 1.053925e-10 
+       conjugacy error = 1.058299e-04 
+    Iteration 2, error = 6.169701e-13 
+       conjugacy error = 1.057911e-04 
+{Operation terminated by user during <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Fourier/getCoeff')" style="font-weight:bold">Fourier/getCoeff</a>
+
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('Fourier/evaluate', '/Users/jasonmirelesjames/Library/CloudStorage/Dropbox/invCircles/Standard-Map/Fourier.m', 214)" style="font-weight:bold">Fourier/evaluate</a> (<a href="matlab: opentoline('/Users/jasonmirelesjames/Library/CloudStorage/Dropbox/invCircles/Standard-Map/Fourier.m',214,0)">line 214</a>)
+              val = val + getCoeff(obj,n)*exp(n*2*pi*1i*x);
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('conjugacyError', '/Users/jasonmirelesjames/Library/CloudStorage/Dropbox/invCircles/Standard-Map/conjugacyError.m', 9)" style="font-weight:bold">conjugacyError</a> (<a href="matlab: opentoline('/Users/jasonmirelesjames/Library/CloudStorage/Dropbox/invCircles/Standard-Map/conjugacyError.m',9,0)">line 9</a>)
+        pMap = [evaluate(param{1,k},phase/numberOfPoints); evaluate(param{2,k},phase/numberOfPoints)];
+
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('standardMap_period_24', '/Users/jasonmirelesjames/Library/CloudStorage/Dropbox/invCircles/Standard-Map/standardMap_period_24.m', 161)" style="font-weight:bold">standardMap_period_24</a> (<a href="matlab: opentoline('/Users/jasonmirelesjames/Library/CloudStorage/Dropbox/invCircles/Standard-Map/standardMap_period_24.m',161,0)">line 161</a>)
+        conjError = conjugacyError(rho, param, alpha, 1000);
+} 
+standardMap_period_24
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.000010
+initial number of modes       50
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.055345 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 4.466694 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 7.286283 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 7.706509 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 8.173328 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 8.173454 seconds.
+
+Compute the initial Fourier modes with 50 initial modes... 
+  Elapsed time is 9.047053 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 2.423787e-05 
+  Conjugacy Error = 2.822308e-05 
+  Elapsed time is 18.782221 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 2.174857e-12 
+       conjugacy error = 1.058299e-04 
+    Iteration 2, error = 1.677363e-14 
+       conjugacy error = 1.057911e-04 
+    Iteration 3, error = 1.347158e-15 
+       conjugacy error = 1.057911e-04 
+    Iteration 4, error = 6.979158e-16 
+       conjugacy error = 1.057911e-04 
+    Iteration 5, error = 6.720703e-16 
+       conjugacy error = 1.057911e-04 
+    Iteration 6, error limit exceeded 
+
+NewtonTime =
+
+  132.2246
+
+
+  Sobolev Norms:
+    k = 1 norm is 5.042484e+00 
+    k = 2 norm is 5.043697e+00 
+    k = 3 norm is 5.153002e+00 
+    k = 4 norm is 4.036320e+01 
+    k = 5 norm is 1.327100e+03 
+    k = 6 norm is 5.518421e+04 
+    k = 7 norm is 2.522778e+06 
+    k = 8 norm is 1.190319e+08 
+    k = 9 norm is 5.678540e+09 
+    k = 10 norm is 2.721428e+11 
+  Tail size: 1.721039e-06 
+Parameters: 
+P =                           [ 4.815500, 0.500000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.000010
+initial number of modes       70
+number of modes after newton  40
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.054171 seconds.
+
+How many periodic tori? 24
+
+Separate the trajecotory... 
+    Elapsed time is 3.962440 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 6.733511 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0373200897353195. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 7.160882 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.0373200897353202. 
+  Delta rho:          7.355228e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 7.626090 seconds.
+The rotation number is approximately 0.0373200897353202.
+  Elapsed time is 7.626218 seconds.
+
+Compute the initial Fourier modes with 70 initial modes... 
+  Elapsed time is 8.834312 seconds.
+
+Flipped rho is 0.96267991026468.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.0 ... 
+Error           = 1.389814e-07 
+  Conjugacy Error = 4.210765e-07 
+  Elapsed time is 17.012402 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 2.664535e-15 
+       conjugacy error = 7.004961e-07 
+    Iteration 2, error = 4.555001e-16 
+       conjugacy error = 7.005054e-07 
+    Iteration 3, error limit exceeded 
+
+NewtonTime =
+
+   42.2705
+
+
+  Sobolev Norms:
+    k = 1 norm is 5.042399e+00 
+    k = 2 norm is 5.043620e+00 
+    k = 3 norm is 5.149418e+00 
+    k = 4 norm is 3.505565e+01 
+    k = 5 norm is 8.562661e+02 
+    k = 6 norm is 2.409477e+04 
+    k = 7 norm is 7.566594e+05 
+    k = 8 norm is 2.575105e+07 
+    k = 9 norm is 9.244792e+08 
+    k = 10 norm is 3.432413e+10 
+  Tail size: 2.546751e-06 

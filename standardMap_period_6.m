@@ -11,13 +11,13 @@ alpha = pi/2;
 initialP = [1.85, 0.565]; % large
 %% Set up parameter variables %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Banach Space Parameter
-nu = 1.1;
+nu = 1.00001;
 % Sobolev space H^m
 sobolevMax = 10;
 % Conjugacy check max
 conjMax = 100;
 % Initial number of modes, and number of modes out of Newton
-initialModes = 20;
+initialModes = 50;
 newtonModes = 50; 
 % Number of points for plotting and computing initial parameterization
 numPoints = 24000;
@@ -144,6 +144,9 @@ fprintf('\n')
 %% Newton-like operation %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 fprintf('Carry out newton-like method...\n')
 newtonIter = 0;
+
+tic
+
 while newtonIter < 10 || defectError >= 10^-errorLimit
    [betaNew, scalarsNew, paramNew] = newtonStep...
        (beta, scalars, param, alpha, rho, phase);
@@ -162,7 +165,11 @@ while newtonIter < 10 || defectError >= 10^-errorLimit
             fprintf('    Iteration %d, error limit exceeded \n',newtonIter + 1)
         break
     end
-end % while loop
+end 
+
+NewtonTime = toc
+
+% while loop
 fprintf('\n')
 %% Compute sobolev norm and tail value %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 sobolevGrid = zeros(sobolevMax,1);

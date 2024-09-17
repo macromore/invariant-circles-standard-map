@@ -1,0 +1,62 @@
+Parameters: 
+P =                           [ 1.850000, 0.565000 ]
+alpha =                       1.5707963267949          probably acos(something)
+nu =                          1.100000
+initial number of modes       20
+number of modes after newton  50
+number of points              24000
+
+Computing the phasespace and trajectory... 
+  Elapsed time is 0.249116 seconds.
+
+How many periodic tori? 6
+
+Separate the trajecotory... 
+    Elapsed time is 3.861242 seconds.
+
+Finding periodic points ... 
+  Periodic point conjugacy error is 1.000000000000000
+Elapsed time is 4.629252 seconds.
+
+Compute the rotation number... 
+Number of points per tori         10000
+      Rho approximates as 0.0467130991823679. 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 5.014315 seconds.
+Number of points per tori         11000
+      Rho approximates as 0.046713099182368. 
+  Delta rho:          1.110223e-16 
+  Machine epsilon is  6.938894e-18 
+  Elapsed time is 5.428503 seconds.
+The rotation number is approximately 0.046713099182368.
+  Elapsed time is 5.429336 seconds.
+
+Compute the initial Fourier modes with 20 initial modes... 
+  Elapsed time is 6.125480 seconds.
+
+Flipped rho is 0.953286900817632.
+
+Compute initial parameterization and approx sine and cosine error with nu = 1.1 ... 
+Error           = 1.113822e-06 
+  Conjugacy Error = 1.625003e-07 
+  Elapsed time is 7.711413 seconds.
+
+Carry out newton-like method...
+    Iteration 1, error = 6.798456e-16 
+       conjugacy error = 7.226452e-07 
+    Iteration 2, error = 4.734599e-16 
+       conjugacy error = 7.226527e-07 
+    Iteration 3, error limit exceeded 
+
+  Sobolev Norms:
+    k = 1 norm is 4.955303e+00 
+    k = 2 norm is 4.960505e+00 
+    k = 3 norm is 4.989611e+00 
+    k = 4 norm is 6.038390e+00 
+    k = 5 norm is 3.526141e+01 
+    k = 6 norm is 3.119080e+02 
+    k = 7 norm is 3.198916e+03 
+    k = 8 norm is 3.963871e+04 
+    k = 9 norm is 5.797310e+05 
+    k = 10 norm is 9.590628e+06 
+  Tail size: 2.054601e-12 
